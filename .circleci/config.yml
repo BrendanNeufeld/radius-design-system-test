@@ -51,6 +51,6 @@ jobs:
           name: Build Demo App
           command: yarn workspace app build
 
-      - run:
-          name: Run Visual Tests
-          command: yarn workspace ds run chromatic
+#      - run:
+#          name: Run Visual Tests
+#          command: yarn workspace ds run chromatic

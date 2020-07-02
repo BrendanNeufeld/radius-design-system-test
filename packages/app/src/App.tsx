@@ -33,7 +33,7 @@ const navbarLinks = [
 ];
 
 const userProfileData = {
-  username: 'Rangle',
+  username: 'Brendan',
   imageSource: userImg
 };
 
